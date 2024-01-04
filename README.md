@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Angie, React developer and Student Software Enginner 👾
+I'm Angie, React developer and Student Software Engineer 👾
 
 - 🌱 I’m currently improving my skill in JavaScript
 - 🔍 I’m looking to collaborate on projects to enhance my web development skills
