@@ -1,8 +1,21 @@
 ## Hi there 👋
+
 I'm Angie, Nest.js developer and Student Software Engineer 👾
 
 - 🌱 I’m currently improving my skill in JavaScript and Typescript
 - 🔍 I’m looking to collaborate on projects to enhance my backend development skills
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/arashiyouni?pet-id=657951925691084425"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 
  **🗃 BackEnd Development**
  
