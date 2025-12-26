@@ -7,9 +7,9 @@ I'm Angie, Nest.js developer and Student Software Engineer 👾
 
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arashiyouni&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/arashiyouni?pet-id=657951925691084425"
+    src="https://render.gitanimals.org/lines/arashiyouni"
     width="600"
     height="120"
   />
